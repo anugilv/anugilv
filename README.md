@@ -1,16 +1,38 @@
-## Hello!
+# Hi there 👋 I'm Anugil
 
-<!--
-anugilv/anugilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+I'm a Language Analyst working at the International Centre for Free and Open Source Solutions (ICFOSS), Government of Kerala, India. I’m passionate about the intersection of **language, speech, and technology**.  
+My research interests are in:
+- Acoustic and Articulatory Phonetics.
+- Socio-Phonetics.
+- Forensic Phonetics.
+- Theoretical and Laboratory Phonology.
+- Cognitive Phonetics and Phonology.
+- Speech Synthesis and Processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+- MSc Forensic Phonetics – University of York (UK) *(Awaiting Graduation)*  
+- MPhil Linguistics – University of Kerala, India.
+- MA Linguistics – University of Kerala, India.
+- BSc Chemistry – University of Calicut, India.
+
+---
+
+## 💻 Skills
+- Linguistic analysis  
+- Phonetics & speech analysis  
+- Research & academic writing  
+- Basic computing & data handling  
+
+---
+
+## ⚡ Fun Fact
+I started in chemistry and transitioned into linguistics — now I analyse speech instead of molecules!
+
+---
+
+⭐️ *Feel free to explore my repositories and connect!*
