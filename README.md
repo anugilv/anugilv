@@ -1,6 +1,7 @@
-# Anugil Velayudhan 
+### Hello Fellows! ✋
 
-I’m a Language Analyst at the [International Centre for Free and Open Source Solutions (ICFOSS)](https://icfoss.in), Government of Kerala, India. I’m passionate about the intersection of language, speech, and technology.
+I’m a Language Analyst at the [International Centre for Free and Open Source Solutions (ICFOSS)](https://icfoss.in), Government of Kerala, India. 
+I’m passionate about the intersection of language, speech, and technology.
 
 My research interests include:
 
