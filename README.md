@@ -9,6 +9,7 @@ I'm passionate about the intersection of **language, speech, and technology**, w
 * Acoustic, Articulatory, and Auditory Phonetics
 * Forensic Phonetics and Sociophonetics
 * Theoretical and Laboratory Phonology
+* Cognitive Phonetics and Phonology
 * Language and Accent Bias
 * Corpus Linguistics (Speech and Text)
 * Morphology and Morphophonology
