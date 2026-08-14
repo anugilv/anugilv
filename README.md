@@ -12,7 +12,7 @@ I'm passionate about the intersection of **language, speech, and technology**, w
 * Cognitive Phonetics and Phonology
 * Language and Accent Bias
 * Corpus Linguistics (Speech and Text)
-* Morphology and Morphophonology
+* Morphology, Morphophonology and Morphoprosody
 * Speech Technology and Natural Language Processing (NLP)
 
 ## 💻 Tools & Technologies
