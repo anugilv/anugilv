@@ -1,12 +1,14 @@
-# Hello there! 👋
+## Hello there! 👋
 
-I am **Anugil Velayudhan**, a **Research Scientist (Speech)** at the **[IIT Delhi Speech Lab](https://speechlab.iitd.ac.in/)*, working on the *AdiVaani Project*, an initiative of the Ministry of Tribal Affairs, Government of India. My current research focuses on the phonological and phonetic evaluation of low-resource languages, such as Kui, Mundari, Santhali, Gondi, Bhili, and Betta Kurumba. It involves developing phonemic inventories, conducting acoustic analysis, and investigating the phonetic and phonological characteristics of speech sounds to support language documentation and speech technology development.
+I am Anugil Velayudhan [ˈanuɡil ˈʋeːlaːjud̪ʱan], a Research Scientist (Speech) at the *[IIT Delhi Speech Lab](https://speechlab.iitd.ac.in/)*, working on the *[AdiVaani Project](https://adivaani.tribal.gov.in/)*, an initiative of the Ministry of Tribal Affairs, Government of India.
 
-Earlier, I worked as a Language Analyst (Intern) at the **[International Centre for Free and Open Source Software (ICFOSS)](https://icfoss.in/)*, Government of Kerala, on the DL-Disco Machine Translation Project under the Bhashini initiative of the Ministry of Electronics and Information Technology (MeitY). Where I was involved in developing an inter-language machine translation system (Malayalam-Tamil-Hindi) and a morphological analyser for Malayalam.
+My current research focuses on the phonological and phonetic evaluation of low-resource languages, such as Kui, Mundari, Santhali, Gondi, Bhili, and Betta Kurumba. It involves developing phonemic inventories, conducting acoustic analysis, and investigating the phonetic and phonological characteristics of speech sounds to support language documentation and speech technology development.
 
-My primary research interests lie in **phonetics and phonology**. I am deeply interested in investigating the abstract and physical properties of speech sounds and exploring their practical applications in forensic speech science and automatic speech recognition (ASR) systems.
+Earlier, I worked as a Language Analyst (Intern) at the *[International Centre for Free and Open Source Software (ICFOSS)](https://icfoss.in/)*, Government of Kerala, on the DL-Disco Machine Translation Project under the Bhashini initiative of the Ministry of Electronics and Information Technology (MeitY). Where I was involved in developing an inter-language machine translation system (Malayalam–Tamil–Hindi) and a morphological analyser for Malayalam.
 
-**Areas of Research Interest**
+My primary research interests lie in *phonetics and phonology*. I am deeply interested in investigating the abstract and physical properties of speech sounds and exploring their practical applications in forensic speech science (FSS) and automatic speech recognition (ASR) systems.
+
+## 🎧 Research Interests
 
 I am interested in investigating speech and language variation through the following theoretical, experimental, and computational frameworks:
 
